@@ -20,20 +20,22 @@ This schedule is preliminary and might be subject to changes.
 * kernel density estimation 
 * principal component analysis
 
-### some time Nov 25-27 - supervised learning basics and concepts
-* linear regression as a toy model
+### Nov 25 - supervised learning basics and concepts
 * data: training data, test data, iid
 * objective functions
+* metrics and errors
 * generalization and regularization
+* parameters and hyperparameters
 
-### some time Dec 2-4: more supervised learning 
+### Dec 4: more supervised learning: methods 
 * k-nearest neighbors: classification and regression
 * decision trees
 * ensemble methods: random forests
-* hyperparameter tuning and validation data
+* hyperparameter tuning
 
 ### Dec 13: deep learning and neural networks
 * neurons and neural networks
 * perceptrons and multi-layer perceptrons
+* stochastic gradient descent and backpropagation
 * convolutional neural networks
 * deep learning examples
